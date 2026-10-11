@@ -1,0 +1,10 @@
+{
+  "description": "Empowering rural entrepreneurs in India, this platform offers business feasibility analysis, loan discovery, and AI advisory for informed decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
